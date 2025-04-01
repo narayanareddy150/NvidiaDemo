@@ -1,0 +1,11 @@
+Truck_ID,Truck_Type,Capacity,Fuel_Cost_Per_Mile,Base_Location
+Diesel_1,Diesel,500,0.15,Base_1
+Diesel_2,Diesel,500,0.15,Base_2
+Gas_1,Gas,400,0.12,Base_1
+Gas_2,Gas,400,0.12,Base_1
+Gas_3,Gas,400,0.12,Base_1
+Gas_4,Gas,400,0.12,Base_2
+Gas_5,Gas,400,0.12,Base_2
+Gas_6,Gas,400,0.12,Base_2
+Gas_7,Gas,400,0.12,Base_1
+Gas_8,Gas,400,0.12,Base_2
